@@ -22,12 +22,13 @@ APIs: Windows Console API.
 Download the zip file.
 Extract the zip file.
 Make sure you have already installed visual studio and all the required libraries.
-Open .sln file in visual studio.
+Open Semester Project.sln file in visual studio.
 Make sure you have  set Configuration to x86.
 Make sure you have set the assembler by:Right-click project → Build Dependencies → Build Customizations.
 Enable MASM (.targets, .props).
 Build the project (Ctrl + Shift + B).
 Run the program afer debugging.
+Admin Password is: qwery!@#$%
 
 🎓 Academic Context:
 Course: Computer Organization & Assembly Language (COAL).
