@@ -19,14 +19,15 @@ Platform: Windows (32-bit).
 APIs: Windows Console API.
 
 ▶️ How to Run (Visual Studio – MASM):
-Open Visual Studio.
-Create a Win32 Console Application project.
-Set Configuration to x86.
-Add the .asm file to the project.
-Right-click project → Build Dependencies → Build Customizations.
+Download the zip file.
+Extract the zip file.
+Make sure you have already installed visual studio and all the required libraries.
+Open .sln file in visual studio.
+Make sure you have  set Configuration to x86.
+Make sure you have set the assembler by:Right-click project → Build Dependencies → Build Customizations.
 Enable MASM (.targets, .props).
 Build the project (Ctrl + Shift + B).
-Run the program from Command Prompt or Visual Studio (Ctrl + F5).
+Run the program afer debugging.
 
 🎓 Academic Context:
 Course: Computer Organization & Assembly Language (COAL).
